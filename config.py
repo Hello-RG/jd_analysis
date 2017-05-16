@@ -4,8 +4,8 @@
 database_config = {
     'host': 'localhost',
     'port': 3306,
-    'user': 'root',
-    'password': '123456',
+    'user': 'alihanniba',
+    'password': '',
     'charset': 'utf8',
 }
 
@@ -22,7 +22,7 @@ redis_db = 10
 is_distributed = False
 
 is_proxy = False
-proxy_address = 'http://127.0.0.1:8000/'
+proxy_address = 'http://127.0.0.1:8001/'
 
 email_type = 'gmail'
 

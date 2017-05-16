@@ -90,3 +90,6 @@ ENV/
 
 # custom
 .idea
+
+config.py
+jd_analysis/settings.py

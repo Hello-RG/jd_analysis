@@ -76,10 +76,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'jd_analysis',
-        'USER': 'root',
-        'PASSWORD': '123456',
-        'HOST': '',
-        'PORT': '',
+        'USER': 'alihanniba',
+        'PASSWORD': '',
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
 
